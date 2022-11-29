@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/383/Desktop/ /учеба/2 семестр/Алгосы/tree/cmake-build-debug/china.cpp
+iostream
+-
+cstdio
+-
+vector
+-
+
